@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "614212603331",
+    "project_id": "authtutorial-9d032",
+    "storage_bucket": "authtutorial-9d032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614212603331:android:1f3f4cdfa8884920a48176",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614212603331-kc2i8mq5shk5cp6dc36hr7nntcvju137.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWWeCJssUYu_QWGkehCC7t2_56MhpKso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614212603331-kc2i8mq5shk5cp6dc36hr7nntcvju137.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614212603331-0ms76t7f1jpfl5om6q5alrdau1jgofgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
